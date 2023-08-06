@@ -2,12 +2,11 @@
 title: Tier List of Best Bars in NYC
 layout: post
 post-image: https://hips.hearstapps.com/hmg-prod/images/screen-shot-2022-08-05-at-5-14-53-pm-1659734097.png
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
-tags:
-- sample
-- post
-- test
+description: We breakdown our best-to-worst bars in NYC that we have been to
+# tags:
+# - tier list
+# - post
+# - test
 ---
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
