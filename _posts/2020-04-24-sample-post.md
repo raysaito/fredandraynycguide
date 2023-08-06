@@ -1,7 +1,7 @@
 ---
-title: Our Tier List of Best Bars in NYC
+title: Tier List of Best Bars in NYC
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/nyc_bar_logo.jpeg?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/nyc_bar_logo.jpeg"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
