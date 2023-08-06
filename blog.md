@@ -1,5 +1,5 @@
 ---
-title: Tier
-layout: tier
+title: Blog
+layout: blog
 ---
 
