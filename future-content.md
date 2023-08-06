@@ -1,9 +1,14 @@
 ---
-title: Test Page
+title: Future Content Ideas
 layout: page
 ---
+### Future lists to make
+* Michelin Star Tier List
+* Define bar by subcategory(rooftop vs cocktail vs club etc.)
 
-# This is heading 1
+
+
+<!-- # This is heading 1
 ## This is heading 2
 ### This is heading 3
 #### This is heading 4
@@ -26,4 +31,4 @@ layout: page
 1. Item 1
 2. Item 2
 3. Item 3
-4. Item 4
+4. Item 4 -->
